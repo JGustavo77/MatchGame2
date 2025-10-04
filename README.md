@@ -3,9 +3,11 @@ Animal Match Game
 Um divertido e simples jogo da memória (Match Game) construído com WPF e C#. O objetivo é encontrar todos os pares de animais correspondentes no menor tempo possível e tentar bater seu próprio recorde.
 
 -Visão Geral:
-Tela principal do jogo com o grid de animais.: 
+Tela principal do jogo com o grid de animais.
+![Captura de tela do jogo em andamento](./imagens/jogo.png)
 
-Tela de vitória com o tempo final e a opção de recomeçar:
+Tela de vitória com o tempo final e a opção de recomeçar.
+![Captura de tela da vitória](./imagens/vitoria.png)
 
 Funcionalidades
 Jogabilidade Clássica: A clássica mecânica de jogo da memória que todos conhecem e amam.
